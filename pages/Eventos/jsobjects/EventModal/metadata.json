@@ -1,0 +1,16 @@
+{
+  "gitSyncId": "67313339d73c857fe8957ecf_9df5fda1-f784-48ff-9365-d6864d51494f",
+  "id": "Eventos_EventModal",
+  "unpublishedCollection": {
+    "name": "EventModal",
+    "pageId": "Eventos",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "event",
+        "value": "{\n  \"name\": \"\",\n  \"description\": \"\",\n  \"artist\": \"\",\n  \"date\": \"\",\n  \"place\": \"\",\n  \"image\": \"\",\n  \"extraInformation\": {}\n}"
+      }
+    ]
+  }
+}

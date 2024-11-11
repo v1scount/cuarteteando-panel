@@ -1,0 +1,9 @@
+{
+    "name": "Festjamos halloween",
+    "description": "Disfrute del vino barato",
+    "artist": "Q' Lokura",
+    "date": "2024-11-10",
+    "place": "Plaza de la music",
+    "image": "https://picsum.photos/200/300",
+    "extraInformation": {}
+}

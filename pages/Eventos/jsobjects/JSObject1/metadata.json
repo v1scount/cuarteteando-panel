@@ -1,0 +1,24 @@
+{
+  "gitSyncId": "67313339d73c857fe8957ecf_b1e500d0-5125-47a8-b5b6-a0a48ba20d0f",
+  "id": "Eventos_JSObject1",
+  "unpublishedCollection": {
+    "name": "JSObject1",
+    "pageId": "Eventos",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "variables": [
+      {
+        "name": "myVar1",
+        "value": "[]"
+      },
+      {
+        "name": "myVar2",
+        "value": "{}"
+      },
+      {
+        "name": "addEventVisibility",
+        "value": "false"
+      }
+    ]
+  }
+}
